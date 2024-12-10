@@ -61,7 +61,7 @@ Developed by: KARTHIKEYAN S RegisterNumber: 24900102
 
 **TIMING DIGRAMS FOR SISO Shift Register**
 
-![Screenshot 2024-12-10 100219](https://github.com/user-attachments/assets/0fb6d782-f2ea-4b23-9aac-6b022cbf6c89)
+![Screenshot 2024-12-10 114137](https://github.com/user-attachments/assets/228e9fa9-9b7d-458b-b659-b4f902b5642c)
 
 **RESULTS**
 
